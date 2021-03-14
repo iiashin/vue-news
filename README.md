@@ -61,7 +61,14 @@ vue-cli + mock.js + router +mint-ui +vuex + vue-awesome-swiper
 5. 点击新闻标题查看具体内容
 
 ### 部分截图
-
+* 主界面
+![home](https://github.com/iiashin/vue-news/blob/main/home.png)
+* 搜索页面
+![search](https://github.com/iiashin/vue-news/blob/main/search.png)
+* 搜索结果
+![search](https://github.com/iiashin/vue-news/blob/main/search1.png)
+* 文章内容
+![detail](https://github.com/iiashin/vue-news/blob/main/detail.png)
 
 
 边写边学习新知识，继续努力
